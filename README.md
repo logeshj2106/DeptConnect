@@ -172,16 +172,15 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-### Sabarish M
+### Logesh J
 
 Computer Science Engineering Student
 
 Java Full Stack Developer
 
-GitHub: https://github.com/SABARISH345
+GitHub: https://github.com/logeshj2106
 
-LinkedIn: https://www.linkedin.com/in/sabarish-m-2310a527b/
-
+LinkedIn:https://www.linkedin.com/in/logesh-j-204414292
 ---
 
 ## ⭐ Support
