@@ -9,7 +9,7 @@ The project focuses on improving communication, transparency, and operational ef
 ---
 ## 🌐 Live Demo
 
-🔗 https://dept-verse.vercel.app
+🔗 https://dept-connect-nine.vercel.app/
 
 ## ✨ Key Highlights
 
@@ -104,7 +104,7 @@ DeptVerse
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/SABARISH345/DeptVerse.git
+git clone https://github.com/logeshj2106/DeptConnect
 ```
 
 ### Navigate to the Project Directory
@@ -128,7 +128,7 @@ npm run dev
 ### Open in Browser
 
 ```text
-http://localhost:5173
+https://dept-connect-nine.vercel.app/
 ```
 
 ---
@@ -172,15 +172,15 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-### Sabarish M
+### Logesh J
 
 Computer Science Engineering Student
 
 Java Full Stack Developer
 
-GitHub: https://github.com/SABARISH345
+GitHub: https://github.com/logeshj2106
 
-LinkedIn: https://www.linkedin.com/in/sabarish-m-2310a527b/
+LinkedIn: https://www.linkedin.com/in/logesh-j-204414292
 
 ---
 
